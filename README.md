@@ -26,7 +26,7 @@ This portfolio showcases my projects, technical skills, certifications, achievem
 
 ## 🔗 Live Demo
 
-[View Portfolio](YOUR_PORTFOLIO_LINK)
+[View Portfolio](http://127.0.0.1:5500/portfolio.html)
 
 ## 📂 Featured Projects
 
@@ -36,11 +36,6 @@ This portfolio showcases my projects, technical skills, certifications, achievem
 - Personal Assistant Applications
 - Web Development Projects
 
-## 📬 Contact
-
-- GitHub: YOUR_GITHUB_LINK
-- LinkedIn: YOUR_LINKEDIN_LINK
-- Email: YOUR_EMAIL
 
 ---
 
